@@ -37,6 +37,6 @@ $grade = "";
 
 $grade = ($score >= 90) ? "A" : (($score >= 80) ? "B" : (($score >= 70) ? "C" : (($score >= 60) ? "D" : "F")));
 echo $grade."<br>";
-echo "*** -->ai ternary conditon k chaile direct echo korte pari ba er value gulu ekta variable a rekhe echo korte pari ba puro ternary operator ba condition k ekta variable  a rekhe echo korte pari";
+echo "*** -->ai ternary conditon k chaile direct echo korte pari, ba er value gulu ekta variable a rekhe echo korte pari ba puro ternary operator ba condition k ekta variable  a rekhe echo korte pari";
 
 ?>
