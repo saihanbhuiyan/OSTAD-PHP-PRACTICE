@@ -20,6 +20,7 @@ $password = "saihan123";
 
 echo ($userName == "saihan" && $password == "saihan123") ? "login" : "login failed";
 echo"<br>";
+
 // Nested ternary operator 
 
 echo ("<br> what is nested ternary operator ?<br>");
