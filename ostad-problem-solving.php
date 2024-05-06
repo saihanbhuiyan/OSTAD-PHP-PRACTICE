@@ -27,7 +27,6 @@ print $houre." :".$minute;
 
 (2)
 Concatenate Two String
-বাং
 
 Problem Statement
 Write a program where two strings will be given, firstName and lastName, return a single string in the format "lastName, firstName".
@@ -49,11 +48,11 @@ Output:
 Doe, John
 
 
-oneway
+oneway way to solve
 printf("%s %s",$firstName, $lastName);
 echo $lastName."," .$firstName;
 
-secound way
+secound way to solve same one with loop
 fscanf(STDIN "%s %s", $firstName, $lastName);
 $output = "";
 
