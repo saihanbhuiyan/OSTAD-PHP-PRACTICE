@@ -8,12 +8,12 @@
 // *user defined function
 
 // user define function
-function sum(){
-    $num1 = 10;
-    $num2 = 20;
-    echo $num1+$num2;
+function addtwoNumber(){
+    $number1 = 10;
+    $number2 = 20;
+    echo $number1+$number2;
 }
-sum();
+addtwoNumber();
 
 // why we use function
 // * web application a jeno onek code likhte na hoi code k reduce kore bodgommo o stabling kora
