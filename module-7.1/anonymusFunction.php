@@ -20,3 +20,5 @@ echo "<br>";
 (function ($a,$b){
       echo "additon a+b =". $a+$b;
 })(10,29);
+
+// tobe variable a assign korle r paranthesis lagbena normal function er moto e kaj korbe just name thakbena
