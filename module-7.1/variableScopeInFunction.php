@@ -10,7 +10,7 @@
   function greed($n, $a){
     echo "my name is $n and my age is $a paramiter";
   }
-  greed($name,$age);
+  greed($name,$age);//paramiter diye access korle argument pass korte hobe
   echo"<br>";
 
 // number 2)==>function er vitore global use kore bahirer variable k function er vitore ese access korte pari ba use korte pari (ja bad habid ostad boleche)
@@ -24,6 +24,6 @@ function myfunction(){
     global $a;
     echo "my name is $n and my age is $a global";
 }
-myfunction();
+myfunction();//global use korle argument lagena karon vitore niye asche global key use kore
 
 
