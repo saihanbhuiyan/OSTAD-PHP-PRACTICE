@@ -1,0 +1,13 @@
+1==>function.php
+2==>functionWithParams.php
+3==>functionParamiterWithDefaultValue.php
+4==>typeHinting.php
+5==>nullTypeHinting.php
+6==>variadicFunction.php
+7==>anonymusFunction.php
+8==>anonymusFunctionAssignToaVariable&Execute.php
+9==>basicReturnTypeFunction.php
+10==>multipleReturnTypefunction.php
+11==>variableScopeInFunction.php
+12==>accessInsideOfFunctionalArrayByIndex&list.php
+13==>ByValueByRefrence.php
