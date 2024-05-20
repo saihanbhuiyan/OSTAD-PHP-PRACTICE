@@ -21,7 +21,7 @@ $n = "raihan";
 $a = 30;
 function myfunction(){
     global $n;
-    global $a;
+    global $a; 
     echo "my name is $n and my age is $a global";
 }
 myfunction();//global use korle argument lagena karon vitore niye asche global key use kore
