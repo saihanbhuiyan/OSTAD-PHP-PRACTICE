@@ -13,7 +13,7 @@ function sum($a,$b){
     echo $a+$b;
 }
 
-sum(20,30);
+sum(20,30); 
 
 
 ?>
