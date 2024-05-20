@@ -14,6 +14,6 @@ echo $result;
 //akhane result function k respresent kore jar value 30 so ai 30 e hocche function  totaha result er soman.
 //  akhn jodi result er sathe r o 30 jog kori tahole 6o asbe
 echo "<br>";
-$finalresult = $result+30;
+$finalresult = $result+30; 
 
 echo "function ja return kore ta oi function er soman example $finalresult" ;
