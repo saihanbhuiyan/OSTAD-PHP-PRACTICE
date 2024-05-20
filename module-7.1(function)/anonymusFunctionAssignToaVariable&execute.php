@@ -24,7 +24,7 @@ $addition = function(...$numbers){
     }
     echo "the total number of 1-5 is : $sum";
 };
- $addition(1,2,3,4,5);
+ $addition(1,2,3,4,5); 
 
 
 //  jehetu anonymus function er ekti identity dicche like greed or addition so akhn ete peramiter dewa jabe abong type hinting o dewa jabe;
