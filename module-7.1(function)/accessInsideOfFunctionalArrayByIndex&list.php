@@ -6,7 +6,7 @@
 
 // access functional array by index
 function getNumber(){
-    $output = [5,6,7,8,9];
+    $output = [5,6,7,8,9];  
     return $output;
 }
 $result = getNumber();
