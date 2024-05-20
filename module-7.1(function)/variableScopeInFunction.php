@@ -17,7 +17,7 @@
 
 // example variable scope in function 2way
 
-$n = "raihan";
+$n = "raihan"; 
 $a = 30;
 function myfunction(){
     global $n;
