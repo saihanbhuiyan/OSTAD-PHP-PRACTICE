@@ -8,6 +8,6 @@
 function introduce($name, $age = 20){
     echo "my name is $name and my age is $age";
 }
-introduce("saihan");
+introduce("saihan"); 
 echo"<br>";
 introduce("saihan", 21);
