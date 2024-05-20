@@ -6,4 +6,4 @@ function myName(? string $name){
     echo $name;
 }
 //myName("saihan");
-myName(Null);
+myName(Null); 
