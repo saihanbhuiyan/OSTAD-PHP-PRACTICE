@@ -9,7 +9,7 @@ function sum(...$num){
     return $num[1];
 }
 $index = sum(1,2,3,4,5,5);
-echo $index;
+echo $index; 
 
 
 // function totalSum(...$numbers){
