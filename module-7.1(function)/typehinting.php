@@ -16,6 +16,6 @@ echo"<br>";
 function equation2(int| float| string $a, $b){
     echo $a+$b;
 }
-equation2("1", 2);
+equation2("1", 2); 
 
 
