@@ -7,4 +7,4 @@
 function addmultiple($a, $b, $c, $d):int|string|float{
     return $a+$b+$c+$d;
 }
- echo addmultiple(1, 2, 3, 4);
+ echo addmultiple(1, 2, 3, 4); 
