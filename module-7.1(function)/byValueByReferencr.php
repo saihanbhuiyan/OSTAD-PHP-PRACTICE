@@ -43,5 +43,5 @@ function byrefrence(&$name){
     
 }
 byrefrence($name)."<br>";
-echo"<br>";
+echo"<br>"; 
 echo $name; // akhane function er out put asbe saihan bhuiyan abong eccho $name er out put asbe saihan vaya karon paramiter a & diye refrence koredewa hoyeche
