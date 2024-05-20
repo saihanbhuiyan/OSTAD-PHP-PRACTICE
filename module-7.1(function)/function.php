@@ -13,7 +13,7 @@ function addtwoNumber(){
     $number2 = 20;
     echo $number1+$number2;
 }
-addtwoNumber();
+addtwoNumber(); 
 
 // why we use function
 // * web application a jeno onek code likhte na hoi code k reduce kore bodgommo o stabling kora
