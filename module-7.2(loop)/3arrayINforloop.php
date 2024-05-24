@@ -11,10 +11,3 @@ for($i = 0; $i<count($fruits); $i++){
     echo $fruits[$i]."<br>";
 }echo "<br>";echo "<br>";echo "<br>";
 
-
-// array in foreach loop
-echo"array in foreach loop <br>";
-echo "<br>";
-foreach($fruits as $value){
-    echo $value."<br>";
-}
