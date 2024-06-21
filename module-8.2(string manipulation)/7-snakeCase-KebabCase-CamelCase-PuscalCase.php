@@ -29,6 +29,30 @@ function camelToSnake($camelCase) {
 $camelCase = 'WelcomeToGeeksForGeeks'; 
 $snakeCase = camelToSnake($camelCase); 
 echo $snakeCase; 
-
+echo "<br>";
 
 // avabe amra snake case a conver t korte pari
+
+
+
+// kebab case mane kono string er protita word ka heiphen diye separate ba alada korbe
+
+// string to kebab case
+echo "kebabCase";echo "<br>";
+$name = "saihan vaya i am comming tommorrow";
+echo str_replace(" ", "-", $name);
+echo "<br>";
+
+
+//camel case mane string ba sentence er word gulu k combine ba ekttrito korefelbe
+echo "camelCase";echo "<br>";
+// string to camal case
+$namr = "saihan vaya i am comming tommorrow";
+echo strtolower(str_replace(" ", "", $namr))."<br>";
+
+// puscal case mane protita word er first letter capital hobe abong combine ba eksathe hobe
+echo "puscalCase";echo "<br>";
+
+// string to puscal case
+$name = "saihan vaya i am comming tommorrow";
+echo str_replace(" ","",ucwords($name));
