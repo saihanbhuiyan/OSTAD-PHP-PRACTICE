@@ -12,3 +12,13 @@ $array = explode( " ",$name);
 print_r($array); //output: Array ( [0] => saihan [1] => bhuiyan )
 
 // akhane $name a 2ta word er modde space ase so akhane " " diye convert koreche
+
+
+// find last word by explode
+echo"<br>";
+$phn = "123-456-7890";
+$newArray = explode("-",$phn);
+$count = count($newArray);
+$count1=  $count-1;
+print_r($count1);
+
