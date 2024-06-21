@@ -1,5 +1,6 @@
 <?php
 // explode()
+
 // explode() use korahoi string k array te convert korar jonno
 // ***(1)--->ajonno boledite hobe ki base kore string k array te convert korbo 
 // 2ti word er modde j space ba take use kore explode( ba array te convert) korte pari 
