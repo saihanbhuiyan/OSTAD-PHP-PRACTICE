@@ -5,4 +5,3 @@ $str = "hello saihan";
 echo strtoupper($str);
 ?>
 <!-- avabe amra upper case a convert korte pari  --> 
-<!--  -->
