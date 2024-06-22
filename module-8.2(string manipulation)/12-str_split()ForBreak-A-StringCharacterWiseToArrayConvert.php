@@ -3,6 +3,7 @@
 // --->protita character ba alphabet k  ek ek ti index number a bosebe  
 
 // str_split() example
+// 
 
 $str = "Hello World";
 $characters = str_split($str);
