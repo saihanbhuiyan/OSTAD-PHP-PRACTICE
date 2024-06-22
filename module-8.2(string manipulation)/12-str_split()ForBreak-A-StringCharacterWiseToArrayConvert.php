@@ -1,6 +1,6 @@
 <?php
 // str_split() use korahoi kono string k character wise venge array te convert korar jonno
-// --->protita character ek ek ti index number a bosebe  
+// --->protita character ba alphabet k  ek ek ti index number a bosebe  
 
 // str_split() example
 
