@@ -35,5 +35,10 @@ class son extends father{
 $sonobj = new son();
 $sonobj->print100()."<br>";
 
-// update koeche pita 1kore agaito cheke 10kore agai abong 2gum kore agai 
+// ***update koeche pita 1kore agaito cheke 10kore agai abong 2gum kore agai ai bepartike bole overeiding
+// ************************overriding method ***************************
+// inheritence kore parant class theke jokhn kono properties ke modify kori ba tar logic change
+// ----> kori tokhn ai bepartike bolahoi overrifing kora ba override kora
+// ****upore example a son calss er modify er beparti e holo overriding
+
  
