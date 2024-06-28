@@ -1,0 +1,24 @@
+***must have composer in your maschine
+--->eusy way to install just goto google & search composer then goto download & copy under code then download & past it in cmd & then composer in cmd
+
+****Laravel Installation 
+-->search in google laravel.com->documentation->install(creat a laravel project & compy install command )
+--->composer-creat-project/Laravel/laravel project one(ja project name)
+
+***ABR INSTALL PROCESS A O KORAJAI global install er maddome
+--->sejonno prothome cmd te pa terminal a (composer global require laravel/installer) ja ekbar e dibo life time r lagbena
+--->trprer commad (laravel new project two) ai commad dile kichi questoin korbe commad like ki ki add korbo git lagbe kina breez lagbe kina ect ja ja lagbe bole dile e hobe
+--->process gulu holo 1)starter kit? *non *Breez * jetstreen(totha er theke konti lagbe select koro jodi konoti na lage non)
+--->2)testing framwork perform? *test *phpUnit(test disi akhane)
+--->3)like to git initialize a git repository? *yes *no(repository lagle yes na lagle no)
+--->4)which database will use in your application? *mysql *mariabd *sql lite *sql server (akhn apatoto lite niye kaj kortesi samne lagbe mysql use hobe ba onnota)
+
+***HOW TO RUN LARAVEL PROJECT?
+Ans : jekono laravel project k jodi Run korte chai tahole tarjonno xammp.ammmp, kichoi use korte hobena php er je build in web server ase seta diye e run korte parbo
+--->artisan name laravel er sathe ekti command line tool ache artisan er modde ekti command ase jar maddome amra
+---> web-server maddome run koriye amader application tike dekhte pari--
+
+===>project er modde ese vs code er terminale ese likhte hobe php artisan er por artisan er modde jabotio ja ase sob chole asbe akhane artisan er sokol commad ase project run korar jonno amader proyojon serve
+===>so php artisan serve likhe enter korle amader ekti site link dibe ja copye kore google website a past korle laravel er home page asbe erpor jodi route toiri kore tahole amader kankhito page a jete parbo
+
+

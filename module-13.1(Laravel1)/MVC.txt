@@ -1,0 +1,7 @@
+*** MVC :-
+CONTROLLER : request handle korbe response korbe totha response er jonno joto calculatoin ase ta korbe ai controller 
+MODEL      : data-base related sokol calculation handle koebe model
+VIEW       : FInal OutPut handle korbe view
+
+Route      : website a j url gulu thake ta k amra bolbo route ja projectFile->route->web.php namok file a thake jekhane amra 
+-----------> url ba route gulu toiri korbo ba likhbo  
