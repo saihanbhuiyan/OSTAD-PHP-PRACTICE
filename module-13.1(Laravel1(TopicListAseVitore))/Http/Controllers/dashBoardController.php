@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class dashBoardController extends Controller
 {
-     function dashboard(){
+     function dashboard(){ 
         //from route web.php
           return "this is a deshboard page"; 
      }
