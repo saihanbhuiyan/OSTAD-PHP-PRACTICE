@@ -1,0 +1,6 @@
+module-13.1(laraInstalltion+HowTORunLaravelProject+MVC
++CreatRout/urlInWebPhPByAnonymusFunction+CreatRouteByController
++CreatView&ConnectWIthCOntroller
++HowTOPassDataControllerToViewByArray&Compact()
++HowTOPassPeramiterPassInUrl&Creat(DinamicURL)
++HowTOaddCssInLaravel
