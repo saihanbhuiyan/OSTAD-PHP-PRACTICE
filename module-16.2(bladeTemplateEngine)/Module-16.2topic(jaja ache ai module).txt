@@ -1,0 +1,15 @@
+module16 class 2 rabbil
+// 1.****************understanding blade templet engine********
+// 2.*************controller theke blade a variable(value) pass******
+// 3.**********if else in blade.templet engine********
+//     4.**********asset binding***********{{asset()}} -->
+//  5*****************switch case in blade********** -->
+    <!--6 ******************including blade templet engine ba blade subView**************** -->
+// ******************7. master layout er
+ @yield('content')
+@extends('')
+@section('contents')
+@endsection
+<!-- 8.****************loop********** -->
+
+----->precored 39,40,41 theke one page templete engine
