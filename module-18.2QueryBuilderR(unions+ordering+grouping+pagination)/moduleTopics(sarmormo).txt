@@ -1,0 +1,48 @@
+***cotroller a 2ta controller ase jar modde ekti class2DBQueryBuilder
+ ja rabbil vai live class a dekhiyechen sekhane join rules ase biyer
+ r ditioto module18class2PDF ta hocche prerecord pdf slides a to z
+//JOIN rules
+//DB::table('মেয়ে books')
+//->join('ছেলে author' + 'মেয়ের বারির মেয়ে books.author_id' ,+ 'ছেলের বারির ছেলে author.id')
+//first()
+//pulck()
+//Aggregates(max(), min(), avg(), sum())
+//Select Clause (USE KORE AMRA SPECIFIC COLUMN SELECT KORTE PARI PULCK() ER MOTO)
+//DISTINCT unugue data select korar jonno use hoi hotepare unigue email ect ect
+// Inner Join
+// left Join
+//right join 
+//cross join
+//Unions
+//Basic Where ClausesThe where() method allows youto filter the results.
+//Advance Where Clauses
+    //1.The orWhere method to join a clause to the query using the or operator.
+     //2.The whereNot and orWhereNot methods may be used to negate a given group of query constraints.
+     //3.The whereBetween method verifies that a column's value is between two values .
+     //4.The whereNotBetween() method verifies that a column's value lies outside of two values.
+     //5.The whereBetweenColumns method verifies that a column's value is between the two values of two columns in the same table row.
+     //6.The whereNotBetween() Columns method verifies that a column's value lies outside the two values of two columns in the same table row.
+     //7.The whereIn() method verifies that a given column's value is contained within the given array.
+     //8.The whereNotIn() method verifies that the given column's value is not contained in the given array.
+     //9.The whereNull() method verifies that the value of the given column is NULL.
+     //10.he whereNotNull() method verifies that the column's value is not NULL.
+     //11.The whereDate() method may be used to compare a column's value against a date.
+     //12.The whereMonth() method may be used to compare a column's value against a specific month.
+     //13.The whereDay() method may be used to compare a column's value against a specific day of the month.
+     //14.The whereYear() method may be used to compare a column's value against a specific year.
+     //15.The whereTime() method may be used to compare a column's value against a specific time.
+     //16.The whereColumn() method may be used to verify that two columns are equal.
+//Ordering, Grouping, L  
+     //1.The orderBy method allows you to sort the results of the query by a given column
+     //2.The latest and oldest methods allow you to easily order results by date
+     //4.The groupBy and having methods may be used to group the query results
+     //5.The skip and take methods to limit the number of results returned from the query or to skip a given
+     //6S.number of results in the query
+
+//Insert Statements
+//Update Statements
+//Update or Insert Statements
+//Increment & Decrement
+//Delete Statements
+//PAGINATE
+//CUSTOM PAGINATE
