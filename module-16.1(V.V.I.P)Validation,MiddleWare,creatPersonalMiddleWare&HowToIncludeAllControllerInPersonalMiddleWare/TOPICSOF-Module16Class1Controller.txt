@@ -1,0 +1,8 @@
+1)validation(contact form, web.php, m16.1)validation rules+error msg in under inputFile+StayData after error in inputFild
+(laravel.com a the bsics er vitore AVAILABLE VALIDATION A SOB rules ASE)
+
+2)Creat Request form validation sokol validation oikahne kore just apply korar jonno jeno bar bar likhtenahoi+ error msg customize korte parbo sekhane 
++(Request $request) er jaigai formValidation hobe+auth(true)
+3)middleware? kivabe use hoi(throttle:2,1)+ kivabe personal middleware creat kore(php artisan:middleware name) apply kore o+KIvabe secret page creat 
+o access korte pari+ sokol controller k personal middleware er ontorvhukto kortePari(bootstrap->app.php)te code
+4)
