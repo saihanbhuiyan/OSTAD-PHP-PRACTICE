@@ -1,0 +1,4 @@
+1.layout.blade = views er vitore components er vitore jar modde html file ba kono page er common things rekhe pore jekhane lagbe sekhane shudu<x-layout>diye tar body te ja icche contenst likhte parbe
+2.form handle = kivabe laravel a form er maddome data pathate hoi abong kivabe data catch korte hoi
+3.file handle = kivabe file upload korajai ba kivabe image upload kore storage er vitore app er vitore public er vitore upload namok folder a upload kore
+4.path = file ti kothai ase ta dekhar jonno path use koraji path (ja complete hoini storage use korle error show kore) solve kore korbo
