@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Module19Class1EloquentORMControllerH;
+use App\Http\Controllers\module19class1RESOURSEFULLcontrollerELOQUENTorm;
 use Illuminate\Support\Facades\Route;
 
 
@@ -37,3 +38,23 @@ Route::get('/findOrFail',[Module19Class1EloquentORMControllerH::class,'findOrFai
 
 //orderBy() 1)assending(use kortehoina 1-10 a-z) 2)desending(desc)use korte hoi 10-1 z-a
 Route::get('/orderby',[Module19Class1EloquentORMControllerH::class,'orderBy']);
+
+//--------------->UODATE DATA IN DATABASE<--------------------
+Route::get('/update',[Module19Class1EloquentORMControllerH::class,'updateData']);
+
+//---------------->multiple data insert in database---------------
+Route::get('/multipleInsert',[Module19Class1EloquentORMControllerH::class,'multipledatainsert']);
+
+//---------------->url a id diye oi id er row ber kore anbe--------------
+Route::get('/show/{id}',[Module19Class1EloquentORMControllerH::class,'show']);
+
+//*********LARAVEL ROUTE MODER BINDING******** */
+Route::get('/tasks/{task}',[Module19Class1EloquentORMControllerH::class,'showtask']);
+
+
+//********RESOURSEFULL CONTROLLER KAJ HOBE AKHAN THEKE*****************
+   //BAKI Route er moto resoursefull Route creat hoina 
+   //akhane get er poriborte hobe resource ja sokol function er jonno kaj korbe
+   //Route::resource('task',Module19Class1EloquentORMControllerH::class);
+
+   Route::resource('/task',module19class1RESOURSEFULLcontrollerELOQUENTorm::class);
