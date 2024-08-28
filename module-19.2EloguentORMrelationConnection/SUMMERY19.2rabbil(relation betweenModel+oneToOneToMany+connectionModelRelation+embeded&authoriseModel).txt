@@ -1,0 +1,20 @@
+*    // SUMMERY OF MEET ELOGUENT  ORM BY RABBIL VAI
+*//*****AJONNO JA JA KORTE HOBE****** */
+*//*****demo databse erd diagam bujhe nite hobe******* */
+*//VIP******8table to model and table vs model (totha table theke model toiri kore kivabe )****
+*//Q:*****AKHN PROSNO HOCCHE Q.BUILDER ER 3LAYER NA KORE AMRA ORM ER 4LAYER KNO USE KORBO*** */
+*//*****PROTITA TABLE ER JONNO EK EKTI MODEL CREAT KORTE HOBE********* */
+*//TO CREAT MODEL COMMAND php artisan make:model modelName
+*//KAJ KORAR JONNO EKTI CONTROLLER CREAT KORE NIYECHE module19class2EloquentORMwithModelR
+*// 4.EXECUTE YOUR FIRST QUERY VIA MODEL
+//UNDERSTTANDING FLOW OF MODEL & DATABASE , QUERY AMD ORM
+//********UNDERSTANDING RELATIONSHIP BETWEEN MODEL***********
+           //UNDERSTING THE MEANING OF belongs AND has
+*//THERE HAVE TWO KIND OF RELATIONAL STEP(direct & inverse)
+     //DIRECT RELATIONSHIP AND REVERSE BA INVERS RELATIONSHIP 
+*//*******ESTABLISH/CONNECTION  RELATIONSHIP BETWEEN MODEL belongs AND has***********
+*//******AI RELATIONGULU KOKHN LIKHBO R KOKHN LIKHBONA****** */
+*//*****RELATION TW KORECHE ABR RELATIONAL TABLE GULU NIYE KAJ KORBO KMN KORE** */
+               //return user::with('profile')->get();
+//***********what is normalize data model & embeded data model************8 */
+

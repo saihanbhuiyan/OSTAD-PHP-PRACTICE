@@ -1,0 +1,16 @@
+1. MEET E-ORM
+2. Demo Laravel Project, Demo Database
+3. Demo Database ERD Diagram
+4. Table to Model & Table VS Model
+5. Execute Your First Query Via Model
+6. Undertstanding Data Flow Sequence
+7. Undertstanding the meaning off belongs & has
+8. রিলেশন শিপ দিয়ে ডাটা বেজ রিডিং পরা ।
+9. Connecting Has or Belongs Relation-Ship
+10. When we write relation When not.
+11. What is Normalized Data Model VS Embeded Data Model
+
+12. 100% QueryBuilder / 100% E-ORM
+
+
+
