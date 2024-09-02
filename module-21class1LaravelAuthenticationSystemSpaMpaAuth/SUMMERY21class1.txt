@@ -1,0 +1,18 @@
+**************21cls1Authentication*********Summery
+1.    //what is authentication and authorisetion?
+2.//************creat authentication********* */
+3.//INSTALL BREEZ 
+4.model creat koreche 
+5.task areate creat koreche
+6.task areate section kore all task o add task bosiyeche 
+7.add task a 2ta form niyeche abong tasks table creat koreche 
+8.name o status er jonno 
+9.task model o user modeler modde relation sthapon koreche 
+10.task area er form gulu theke data tasks table a pathiiyeche with user_id
+11.trpr all task a sokol data eneche 
+12.all.tasks a form creat koren data gulu tasks table theke ene 
+-->all task a boyeche foreaach loop use kore sathe ekti delete button o
+13.delete button tite click korle jeno task delete hoi sei kaj koreche 
+
+
+
